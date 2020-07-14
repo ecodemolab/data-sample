@@ -1,32 +1,16 @@
-[
-  {
-    "id": 101,
-    "company": {
+{
+  "companies": [
+    {
+      "id": 101,
       "name": "ABC Company"
-    }
-  },
-  {
-    "id": 102,
-    "company": {
+    },
+    {
+      "id": 102,
       "name": "ACME Corp"
-    }
-  },
-  {
-    "id": 103,
-    "company": {
+    },
+    {
+      "id": 103,
       "name": "Bender Metal Works"
     }
-  },
-  {
-    "id": 104,
-    "company": {
-      "name": "Dapper Retailers"
-    }
-  },
-  {
-    "id": 105,
-    "company": {
-      "name": "Expo Services"
-    }
-  }
-]
+  ]
+}
